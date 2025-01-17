@@ -1,3 +1,4 @@
+![logo](https://github.com/Sakshirajale/Sakshirajale/blob/main/images)
 <h1 align="center">Hi 👋, I'm Sakshirajale</h1>
 <h3 align="center">Currently Studying in third year computer engineering at Sanjivani College of Engineering NAT N5 certified || Learning Data Science and ML</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshirajale" alt="sakshirajale" /></a> </p>
 
-- 🔭 I’m currently working on **NAT N5 Certified**
+- 🔭 I’m currently complete **NAT N5 Certified**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
