@@ -1,4 +1,4 @@
-![logo](https://github.com/Sakshirajale/Sakshirajale/blob/main/1_b29pJKZqp6Jxb3rd9QlJiw.png)
+![logo](href="https://github.com/Sakshirajale/Sakshirajale/blob/main/1_b29pJKZqp6Jxb3rd9QlJiw.png",height="100")
 <h1 align="center">Hi 👋, I'm Sakshirajale</h1>
 <h3 align="center">Currently Studying in third year computer engineering at Sanjivani College of Engineering NAT N5 certified || Learning Data Science and ML</h3>
 
