@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshirajale" alt="sakshirajale" /></a> </p>
 
-- 🔭 I’m currently complete **NAT N5 Certified**
+- 🔭 I’m currently certified **NAT N5 Certified(Langauge proficiency)**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Currently Studying in third year computer engineering at Sanjivani College of Engineering NAT N5 certified**
+- 💬 Ask me about **Data Science, Machine Learning and Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
