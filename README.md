@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center" color="radical">Hi 👋, I'm Sakshirajale</h1>
-<h3 align="center">Currently Studying in third year computer engineering at Sanjivani College of Engineering NAT N5 certified || Learning Data Science and ML</h3>
+<h3 align="center">Currently Studying in third year computer engineering at Sanjivani College of Engineering,Kopargaon || NAT N5 certified || Learning Data Science and ML</h3>
 <h3 align="center"> ● Aspiring Data Scientist ● </h3>
 
 <div align="center">
