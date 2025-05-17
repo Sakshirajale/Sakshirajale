@@ -6,7 +6,7 @@
 
 <div align="center">
  
-  <img alt="coding" width="400" src="Sakshi_Image.png" style="border-radius: 10px;">
+  <img alt="coding" width="300" src="Sakshi_Image.png" style="border-radius: 10px;">
 
 </div>
 
