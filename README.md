@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center" color="radical">Hi 👋, I'm Sakshirajale</h1>
-<h3 align="center">Currently Studying in third year computer engineering at Sanjivani College of Engineering,Kopargaon || NAT N5 certified || Learning Data Science and ML</h3>
+<h3 align="center">🎓 Third Year Computer Engineering Student at Sanjivani College of Engineering || 📊 Data Science & ML Enthusiast || 🇯🇵 NAT N5 Certified</h3>
 <h3 align="center"> ● Aspiring Data Scientist ● </h3>
 
 <div align="center">
@@ -35,8 +35,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshirajale&show_icons=true&locale=en&layout=compact" alt="sakshirajale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshirajale&" alt="sakshirajale" /></p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
+<h3 align="left">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
