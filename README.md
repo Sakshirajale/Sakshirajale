@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **AI(Artificial Intellegent)**
 
-- 🌱 I’m currently learning **Data Science and ML**
+- 🌱 I’m currently learning **Data Science, ML and Japanese**
 
 - 💬 Ask me about **Python,Data Science and ML**
 
