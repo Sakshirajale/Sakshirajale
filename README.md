@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center" color="radical">Hi 👋, I'm Sakshi Rajale</h1>
-<h3 align="center">🎓 Third Year Computer Engineering Student at Sanjivani College of Engineering || 📊 Data Science & ML Enthusiast || 🇯🇵 NAT N5 Certified</h3>
+<h3 align="center">🎓 Final Year Computer Engineering Student at Sanjivani College of Engineering || 📊 Data Science & ML Enthusiast || 🇯🇵 NAT N5 Certified</h3>
 <h3 align="center"> ● Aspiring Data Scientist ● </h3>
 
 <div align="center">
